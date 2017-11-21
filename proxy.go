@@ -16,7 +16,7 @@ import (
 	"golang.org/x/net/websocket"
 )
 
-const basePkg = "github.com/derekburrell/wcp"
+const basePkg = "github.com/derekburrell/webcamproxy"
 
 // --------------------------
 
