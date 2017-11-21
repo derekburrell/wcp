@@ -13,7 +13,7 @@ import (
 	"go/build"
 	"os"
 
-	"github.com/golang/go"
+	"golang.org/x/net/websocket"
 )
 
 const basePkg = "github.com/chlu/webcamproxy"
